@@ -13,7 +13,6 @@
 ## Запуск
 
 ```bash
-cd LB1
 docker compose up --build -d
 ```
 
